@@ -2,7 +2,7 @@
 //  Predators.swift
 //  JPApexPredators
 //
-//  Created by Collin Schmitt on 11/23/24.
+//  Created by Collin Schmitt on 10/12/24.
 //
 
 //foundation is a framework that gives us access to some decoding stuff we will be using
