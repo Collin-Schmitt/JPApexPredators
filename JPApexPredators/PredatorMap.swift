@@ -2,7 +2,7 @@
 //  PredatorMap.swift
 //  JPApexPredators
 //
-//  Created by Collin Schmitt on 4/15/25.
+//  Created by Collin Schmitt on 10/13/24.
 //
 
 import SwiftUI
